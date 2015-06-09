@@ -5,10 +5,10 @@ date:   2015-06-09 13:01:28
 categories: myers briggs dichotomy
 ---
 
-# Decisions
 How we make decisions
 
-## Thinking
+# Thinking
+
 * Search for principles and logic when making decisions
 * Outcome / goal focused
 * Objective, dispassionate in decision making
@@ -17,7 +17,8 @@ How we make decisions
 * Enjoy being recognised for results
 * Decisions are made with the Head.
 
-## Feeling
+# Feeling
+
 * Use personal feelings and values when making decisions
 * Process focused
 * Subjective decision making, striving to maintain harmony for all involved.

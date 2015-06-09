@@ -8,6 +8,7 @@ categories: myers briggs dichotomy
 External lifestyle we prefer to lead.
 
 # Judging
+
 * Planned and organised
 * Feel supported by structure, guidelines, and standardised methods
 * Dislike surprises and changes.
@@ -15,6 +16,7 @@ External lifestyle we prefer to lead.
 * Complete projects in a step-by-step
 
 # Perceiving
+
 * Appear to have no plan, act spontaneously
 * Flexible and adaptable
 * Enjoy freedom and variety. Resist or fight against structure, rules, plans, etc
