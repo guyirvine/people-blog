@@ -1,0 +1,13 @@
+# Site settings
+title: People related matters
+email: guy@guyirvine.com
+description: > # this means to ignore newlines until "baseurl:"
+  Attempting to collate and understand more about prseonality types
+  as they relate to team formation and collaboration.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://people.guyirvine.com" # the base hostname & protocol for your site
+twitter_username: guyirvine
+github_username:  guyirvine
+
+# Build settings
+markdown: kramdown

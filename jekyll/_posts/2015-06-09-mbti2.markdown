@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "The Four Dichotomy’s - Myers Briggs 2"
+date:   2015-06-09 13:01:28
+categories: myers briggs dichotomy
+---
+
+![MBTI 2](/assets/img/mbti-5-facets.jpg)
