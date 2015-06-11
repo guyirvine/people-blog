@@ -15,8 +15,8 @@ output_dir = '_site'
 
 markdown = Redcarpet::Markdown.new(Redcarpet::Render::HTML)
 
-FileUtils.rm_rf(output_dir)
-FileUtils.mkdir(output_dir)
+# FileUtils.rm_rf(output_dir)
+# FileUtils.mkdir(output_dir)
 FileUtils.cp_r('css', output_dir)
 FileUtils.cp_r('img', output_dir)
 
