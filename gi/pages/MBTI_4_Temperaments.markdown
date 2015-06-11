@@ -1,0 +1,23 @@
+# [Guardian - SJ](http://www.keirsey.com/4temps/guardian_overview.asp)
+* [Supervisor (ESTJ)](http://www.keirsey.com/4temps/supervisor.asp)
+* [Inspector (ISTJ)](http://www.keirsey.com/4temps/inspector.asp)
+* [Provider (ESFJ)](http://www.keirsey.com/4temps/provider.asp)
+* [Protector (ISFJ)](http://www.keirsey.com/4temps/protector.asp)
+
+# [Artisan - SP](http://www.keirsey.com/4temps/artisan_overview.asp)
+* [Promoter (ESTP)](http://www.keirsey.com/4temps/promoter.asp)
+* [Crafter (ISTP)](http://www.keirsey.com/4temps/crafter.asp)
+* [Performer (ESFP)](http://www.keirsey.com/4temps/performer.asp)
+* [Composer (ISFP)](http://www.keirsey.com/4temps/composer.asp)
+
+# [Idealist - NF](http://www.keirsey.com/4temps/idealist_overview.asp)
+* [Teacher (ENFJ)](http://www.keirsey.com/4temps/teacher.asp)
+* [Counselor (INFJ)](http://www.keirsey.com/4temps/counseler.asp)
+* [Champion (ENFP)](http://www.keirsey.com/4temps/champion.asp)
+* [Healer (INFP)](http://www.keirsey.com/4temps/healer.asp)
+
+# [Rational - NT](http://www.keirsey.com/4temps/rational_overview.asp)
+* [Fieldmarshal (ENTJ)](http://www.keirsey.com/4temps/fieldmarshal.asp)
+* [Mastermind (INTJ)](http://www.keirsey.com/4temps/mastermind.asp)
+* [Inventor (ENTP)](http://www.keirsey.com/4temps/inventor.asp)
+* [Architect (INTP)](http://www.keirsey.com/4temps/architect.asp)
